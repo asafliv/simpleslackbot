@@ -1,0 +1,82 @@
+2018-03-19 20:46:20,652 Initialized in: /usr/local/bin
+2018-03-19 20:46:31,216 Initialized in: /usr/local/bin
+2018-03-19 20:46:46,503 Initialized in: /usr/local/bin
+2018-03-19 20:47:34,217 Initialized in: /usr/local/bin
+2018-03-19 20:49:07,909 Initialized in: /usr/local/bin
+2018-03-19 20:53:38,359 Initialized in: /usr/local/bin
+2018-03-19 20:53:38,363  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 20:53:40,270 127.0.0.1 - - [19/Mar/2018 20:53:40] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:53:44,133 127.0.0.1 - - [19/Mar/2018 20:53:44] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:53:48,196 127.0.0.1 - - [19/Mar/2018 20:53:48] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:53:52,167 127.0.0.1 - - [19/Mar/2018 20:53:52] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:53:56,125 127.0.0.1 - - [19/Mar/2018 20:53:56] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:00,200 127.0.0.1 - - [19/Mar/2018 20:54:00] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:04,158 127.0.0.1 - - [19/Mar/2018 20:54:04] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:08,210 127.0.0.1 - - [19/Mar/2018 20:54:08] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:12,178 127.0.0.1 - - [19/Mar/2018 20:54:12] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:16,151 127.0.0.1 - - [19/Mar/2018 20:54:16] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:20,120 127.0.0.1 - - [19/Mar/2018 20:54:20] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:24,196 127.0.0.1 - - [19/Mar/2018 20:54:24] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:28,161 127.0.0.1 - - [19/Mar/2018 20:54:28] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:32,137 127.0.0.1 - - [19/Mar/2018 20:54:32] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:35,855 Initialized in: /usr/local/bin
+2018-03-19 20:54:35,858  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 20:54:38,043 127.0.0.1 - - [19/Mar/2018 20:54:38] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:38,255 127.0.0.1 - - [19/Mar/2018 20:54:38] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:41,180 127.0.0.1 - - [19/Mar/2018 20:54:41] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:45,150 127.0.0.1 - - [19/Mar/2018 20:54:45] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:49,435 127.0.0.1 - - [19/Mar/2018 20:54:49] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:53,196 127.0.0.1 - - [19/Mar/2018 20:54:53] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:54:57,153 127.0.0.1 - - [19/Mar/2018 20:54:57] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:55:01,126 127.0.0.1 - - [19/Mar/2018 20:55:01] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:55:05,188 127.0.0.1 - - [19/Mar/2018 20:55:05] "POST /process_msg HTTP/1.1" 404 -
+2018-03-19 20:55:09,944 Initialized in: /usr/local/bin
+2018-03-19 20:55:09,947  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 20:56:18,843 Initialized in: /usr/local/bin
+2018-03-19 20:56:19,228  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:01:07,726 Initialized in: /usr/local/bin
+2018-03-19 21:01:07,736  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:01:19,171 Initialized in: /usr/local/bin
+2018-03-19 21:01:19,177  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:01:30,470 Initialized in: /usr/local/bin
+2018-03-19 21:01:30,886  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:01:43,026 127.0.0.1 - - [19/Mar/2018 21:01:43] "GET /average HTTP/1.1" 200 -
+2018-03-19 21:01:43,916 127.0.0.1 - - [19/Mar/2018 21:01:43] "GET /average HTTP/1.1" 200 -
+2018-03-19 21:01:44,883 127.0.0.1 - - [19/Mar/2018 21:01:44] "GET /average HTTP/1.1" 200 -
+2018-03-19 21:05:23,945 Initialized in: /usr/local/bin
+2018-03-19 21:05:23,952  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:05:29,756 127.0.0.1 - - [19/Mar/2018 21:05:29] "GET /average HTTP/1.1" 200 -
+2018-03-19 21:06:18,077 Initialized in: /usr/local/bin
+2018-03-19 21:06:18,080  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:09:19,350 Initialized in: /usr/local/bin
+2018-03-19 21:09:19,863  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:10:04,653 Initialized in: /usr/local/bin
+2018-03-19 21:10:04,662  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:11:35,661 Initialized in: /usr/local/bin
+2018-03-19 21:11:36,113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:11:44,357 Initialized in: /usr/local/bin
+2018-03-19 21:11:44,363  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:12:59,980 Initialized in: /usr/local/bin
+2018-03-19 21:12:59,984  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:13:02,196 Problem importing plugins.printall.MyPlugin - No module named printall
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/rtmbot/core.py", line 164, in load_plugins
+    cls = import_string(plugin_path)
+  File "/Library/Python/2.7/site-packages/rtmbot/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named printall
+2018-03-19 21:14:12,427 Initialized in: /usr/local/bin
+2018-03-19 21:14:12,431  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-19 21:14:15,186 Problem importing plugins.printall.MyPlugin - No module named printall
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/rtmbot/core.py", line 164, in load_plugins
+    cls = import_string(plugin_path)
+  File "/Library/Python/2.7/site-packages/rtmbot/utils/module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named printall
+2018-03-19 21:15:38,105 Initialized in: /usr/local/bin
+2018-03-19 21:15:38,112  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

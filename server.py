@@ -7,8 +7,9 @@ __author__ = 'asafliv'
 
 def start_bot():
     config = {
-        "SLACK_TOKEN": "xoxb-331718210816-SgOVGToKscF1VQANhxvak8DS",
-        "ACTIVE_PLUGINS": ["plugins.printall.MyPlugin"]
+        "SLACK_TOKEN": "xoxb-331718210816-Alk7hTRjww7nGVSjTo9QulZh",
+        "ACTIVE_PLUGINS": ["plugins.printall.MyPlugin"],
+        "DEBUG": True
     }
     bot = RtmBot(config)
     print "starting bot"
